@@ -8,6 +8,7 @@ source_url: "https://www.brewersfriend.com/homebrew/recipe/view/1409508/hazy-ber
 source_id: 1409508
 tags: ["All grain", "Brewer's Friend import", "Bottle-aged", "Accidental wild sour"]
 date: "2024-03-10"
+image: "assets/images/hazy-berliner-weisse.avif"
 batch:
   method: "All grain"
   size: "5.5 US gal"
