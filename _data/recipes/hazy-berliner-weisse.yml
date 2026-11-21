@@ -1,12 +1,12 @@
 # Imported from the public Brew Free or Die Brewer's Friend profile.
 # Values are recipe estimates unless explicitly identified as brew-day observations.
-featured: false
+featured: true
 name: "Hazy Berliner Weisse"
 style: "Berliner Weisse"
-summary: "A lightly hopped sour wheat beer with cranberries, strawberries, and fruit-forward dry hops."
+summary: "A cranberry-and-strawberry Berliner Weisse; bottles from a probable 2022 batch developed beautiful Brett-like funk after roughly four years of aging."
 source_url: "https://www.brewersfriend.com/homebrew/recipe/view/1409508/hazy-berliner-weisse"
 source_id: 1409508
-tags: ["All grain", "Brewer's Friend import"]
+tags: ["All grain", "Brewer's Friend import", "Bottle-aged", "Accidental wild sour"]
 date: "2024-03-10"
 batch:
   method: "All grain"
@@ -57,3 +57,9 @@ process:
 notes:
   - "pH measured 4.8 when culture was added and 3.4 at boil."
   - "This recipe has multiple recorded brew sessions (2022-10-08 and 2024-03-10); the date shown is the latest."
+# Retrospective bottle tasting recorded November 21, 2026. The 2022 batch attribution and Brett source are brewer recollections, not laboratory confirmation.
+  - "November 21, 2026 bottle tasting (probable 2022 batch): Brewer reports that these bottles were set aside about four years earlier. The archived recipe also lists 2022-10-08 and 2024-03-10 brew sessions, but the exact bottled session has not been independently confirmed; the displayed recipe date remains the latest recorded session."
+  - "Unintended wild fermentation: The beer was originally brewed as a fruited Berliner Weisse, not deliberately inoculated with Brett. Brewer recalls previous Brettanomyces contamination in shared brewing equipment after making an intentional Brett beer, making carryover a plausible source. Brett is strongly suspected based on aroma and history, but the organism and strain have not been tested."
+  - "Pellicles appeared inside the bottles during storage, prompting the brewer to put them aside. On rediscovery in 2026, most visible pellicles had receded or disappeared. Their disappearance does not establish that the microbes are gone."
+  - "Tasting November 2026: Hazy golden-amber beer with a very foamy pour, pronounced classic Brett-like funk on the nose, very dry finish, minimal sweetness, lively carbonation, and a faint cranberry impression. Brewer described the unexpectedly aged beer as genuinely excellent."
+  - "Likely bottle refermentation may explain the dry finish and extra carbonation, but actual yeast identity, gravity change, and whether fermentation continued throughout storage are unmeasured. Chill and open remaining bottles cautiously because of possible overpressure."
